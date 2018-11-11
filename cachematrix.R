@@ -1,7 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## aim is to writer two functions to inverse a matrix
 
-## Write a short comment describing this function
+## makeCacheMatrix is a function we are creating to store the inverse of the input matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 
